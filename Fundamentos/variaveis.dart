@@ -1,6 +1,6 @@
 main() {
   //dinamicos
-  dynamic alfa;
+  dynamic alfa; //qq tipo
   var delta; //inferencia
   //numericos
   int a = 2;
@@ -15,5 +15,5 @@ main() {
   Map<String, String> g = {
     'name': 'João',
   };
-  Set h = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11};
+  Set h = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11}; // conjunto, nao pode repetir
 }
