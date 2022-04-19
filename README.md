@@ -1,3 +1,3 @@
 # LearningDart
-Alguns exercicios e estudo da documentação do Dart
+Alguns exercícios e estudo da documentação do Dart
 
